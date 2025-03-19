@@ -1,7 +1,13 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on TypeScript with NextJs, ReactJs and Prisma<br>🌱 I’m currently learning Payment Intigration<br>
+
+🔭 **Currently Working On:**  
+I'm actively working with **TypeScript, Next.js, React.js, and Prisma** to develop scalable and high-performance web applications.
+
+🌱 **Currently Learning:**  
+Exploring **Payment Integration** to seamlessly implement secure and efficient payment systems in modern web applications.
+
 
 
 ## 🌐 Socials:
