@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 🔭 **Currently Working On:**  
-I'm actively working with **TypeScript, Next.js, React.js, and Prisma** to develop scalable and high-performance web applications.
+Building high-performance web solutions at clevenstudios with @Arav-Menon, using Next.js, TurboRepo, Tailwind, Prisma, TypeScript, GSAP, and Node.js for a scalable and efficient backend. 🚀
 
 🌱 **Currently Learning:**  
 Exploring **Payment Integration** to seamlessly implement secure and efficient payment systems in modern web applications.
