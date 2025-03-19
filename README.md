@@ -12,10 +12,8 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Urcodingbuddy&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api?username=Urcodingbuddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Urcodingbuddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Urcodingbuddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Urcodingbuddy&theme=radical&no-frame=true&no-bg=false&margin-w=8)
