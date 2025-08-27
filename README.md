@@ -47,9 +47,4 @@ Exploring **Payment Integration** to seamlessly implement secure and efficient p
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Urcodingbuddy&theme=radical&no-frame=true&no-bg=false&margin-w=8)
 
-### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Urcodingbuddy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
