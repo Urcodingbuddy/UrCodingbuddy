@@ -44,7 +44,6 @@ Exploring **Payment Integration** to seamlessly implement secure and efficient p
 ![](https://github-readme-stats.vercel.app/api?username=Urcodingbuddy&theme=dark&hide_border=false&include_all_commits=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Urcodingbuddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Urcodingbuddy&theme=radical&no-frame=true&no-bg=false&margin-w=8)
+
 
 
