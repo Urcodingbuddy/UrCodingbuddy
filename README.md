@@ -30,8 +30,6 @@ Exploring **Payment Integration** to seamlessly implement secure and efficient p
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  -->
 
-# 📊 GitHub Stats:
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Urcodingbuddy&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api?username=Urcodingbuddy&theme=dark&hide_border=false&include_all_commits=true) 
