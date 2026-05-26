@@ -1,3 +1,174 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=ANSH%20PETHE&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Developer+%7C+Open+Source+Contributor;Building+Things+With+TypeScript;Debugging+Life+One+Bug+At+A+Time"/>
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+# /about_me
+
+```ts
+const ansh = {
+    name: "Ansh Pethe",
+    username: "Urcodingbuddy",
+    role: "Developer",
+
+    stack: [
+        "TypeScript",
+        "React",
+        "NodeJS",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+    ],
+
+    interests: [
+        "Open Source",
+        "Building Products",
+        "System Design",
+        "AI"
+    ]
+}
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-programming.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# TECH STACK
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,git,github,vscode,linux,tailwind,prisma"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# CURRENT STATUS
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Urcodingbuddy&show_icons=true&theme=default&hide_border=true"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Urcodingbuddy&theme=default&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urcodingbuddy&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# WORKSPACE
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,github,git"/>
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%">
+
+### Currently Building
+
+◈ Open Source Projects  
+◈ Full Stack Applications  
+◈ AI Integrations  
+◈ TypeScript Systems  
+
+</td>
+
+<td width="50%">
+
+### Learning
+
+◈ Architecture  
+◈ Distributed Systems  
+◈ Cloud  
+◈ Agentic AI  
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/anime-computer.gif" width="650"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Urcodingbuddy">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Urcodingbuddy&color=000000&style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+
+
 <!--
 
 # 💫 About Me:
