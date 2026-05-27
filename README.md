@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="50%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&text=ArcAnsh&fontColor=FFFFFF&fontSize=52"/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&text=ArcAnsh&fontColor=FFFFFF&fontSize=70"/>
 
 <br>
 
@@ -18,22 +18,11 @@
 
 </div>
 
-<br><br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=60&text=profile.ts&fontColor=FFFFFF&fontSize=24"/>
-
-</div>
-
-<br>
-
-
 <div align="center"> <img src="https://img.shields.io/badge/BUILDING-161B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/DEBUGGING-161B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/SHIPPING-161B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/ACTIVE-58A6FF?style=for-the-badge"/> </div>
 
 <br><br>
 
-<div align="center"> <img src="https://skillicons.dev/icons?theme=dark&i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,git,github,linux,vscode,tailwind,prisma"/> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?theme=dark&i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,git,github,linux,tailwind,prisma,discord,figma,mysql,nginx,notion,npm,pnpm,bun,postman,redux,deno,cloudflare,arch,bash,devto"/> </div>
 
 <br><br>
 
