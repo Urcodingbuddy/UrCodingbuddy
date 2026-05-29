@@ -30,11 +30,11 @@
 
 <br><br>
 
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Urcodingbuddy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Urcodingbuddy&theme=github-dark-blue&hide_border=true"/> </div>
+<div align="center"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Urcodingbuddy&theme=github-dark-blue&hide_border=true"/> </div>
 
 <br><br>
 
-<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Urcodingbuddy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/> </div>
+<img width="150%" src="https://github-readme-activity-graph.vercel.app/graph?username=Urcodingbuddy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
 
 <br><br>
 
